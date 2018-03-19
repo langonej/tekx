@@ -1,4 +1,4 @@
-.. title:: Tech Summit 2018
+.. title:: .Next Hackathon 2018 New Orleans
 
 .. _intro-docs:
 
