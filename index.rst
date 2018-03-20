@@ -66,7 +66,7 @@ Getting Started
 
 .. note::
 
-  Due to resource limitations, many labs are designed to be completed as a group. The Overview section of each lab will indicate whether the lab should be completed once per group/cluster or if it can be performed individually. **Do Not Start Labs Before Electing a Team Lead and Consulting Your Team Coach**
+  Welcome to our inaugural hackathon!  Due to resource limitations, many labs are designed to be completed as a group. The Overview section of each lab will indicate whether the lab should be completed once per group/cluster or if it can be performed individually. **Do Not Start Labs Before Electing a Team Lead and Consulting Your Team Coach**
 
 Following presentations on Tuesday, you will have approximately 4 hours to complete the **Required Labs**.
 
