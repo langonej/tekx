@@ -45,12 +45,14 @@
     <div class="row">
         <div class="col-md-6">
             <h2>Need Support?</h2>
-            <p>Join us in #techsummit2018 on Slack for questions, comments, and important announcements.</p>
-            <p><a class="btn btn-secondary" href="slack://channel?id=C7ELNM1KL&amp;team=T0252CLM8" role="button">Join Channel &raquo;</a></p>
+            <p>Join us in #_hackathon_nola_ext on Slack for questions, comments, and important announcements.</p>
+            <p><a class="btn btn-secondary" href="slack://channel?id=C9YL09A23&amp;team=T0252CLM8" role="button">Join Channel &raquo;</a></p>
         </div>
         <div class="col-md-6">
             <h2>Awards and Prizes</h2>
-            <p>In addition to bragging rights and special recognition at SKO there will be prizes for the winning team. There will be awards for most Jira ticket submissions and special contributions.</p>
+            <p>In addition to being recognized in front of their peers, the top team per category will win a meet and greet with celebrity chef and personality Anthony Bourdain on Thursday, May 10th during .NEXT, plus a $2,500 cash prize plus a donation of $2,500 to the nonprofit organization of your choice. 
+
+</p>
         </div>
     </div>
     <hr>
@@ -60,9 +62,9 @@ Getting Started
 
 .. note::
 
-  Welcome to our inaugural hackathon!  Due to resource limitations, many labs are designed to be completed as a group. The Overview section of each lab will indicate whether the lab should be completed once per group/cluster or if it can be performed individually. **Do Not Start Labs Before Electing a Team Lead and Consulting Your Team Coach**
-
-Following presentations on Tuesday, you will have approximately 4 hours to complete the **Required Labs**.
+  Welcome to our inaugural hackathon!  In an effort to help deliver the maximum hackathon experience we have made some of our internal training available to each of you.  The content within this site is typically used to perform a lab.  **However, since we are preparing our infrastructure for the hackathon, the content provided is for educational purposes only.**  We do not have online labs for use at this time. 
+  
+The Hackathon will start prompty at 08:00am on Tuesday May 8th, 2018.  If possible, please handle your in-person registration on Monday afternoon before 6pm.
 
 Beginning on Wednesday you will be provided with a customer challenge. Your goal is to build and propose a solution using Nutanix and optional 3rd party technologies. The **Optional Labs** provide step by step guides for additional technologies you may find useful for your proposed solution. Bonus points can be earned by incorporating additional technologies (Chef, Puppet, Jenkins, etc.) not covered in **Optional Labs**.
 
