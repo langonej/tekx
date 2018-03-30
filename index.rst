@@ -46,13 +46,11 @@
         <div class="col-md-6">
             <h2>Need Support?</h2>
             <p>Join us in #_hackathon_nola_ext on Slack for questions, comments, and important announcements.</p>
-            <p><a class="btn btn-secondary" href="slack://channel?id=C9YL09A23&amp;team=T0252CLM8" role="button">Join Channel &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="slack://channel?id=C9YL09A23&team=T0252CLM8" role="button">Join Channel &raquo;</a></p>
         </div>
         <div class="col-md-6">
             <h2>Awards and Prizes</h2>
-            <p>In addition to being recognized in front of their peers, the top team per category will win a meet and greet with celebrity chef and personality Anthony Bourdain on Thursday, May 10th during .NEXT, plus a $2,500 cash prize plus a donation of $2,500 to the nonprofit organization of your choice. 
-
-</p>
+            <p>In addition to being recognized in front of their peers, the top team per category will win a meet and greet with celebrity chef and personality Anthony Bourdain on Thursday, May 10th during .NEXT, plus a $2,500 cash prize plus a donation of $2,500 to the nonprofit organization of your choice. </p>
         </div>
     </div>
     <hr>
