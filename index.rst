@@ -49,8 +49,17 @@
             <p><a class="btn btn-secondary" href="slack://channel?id=C9YL09A23&team=T0252CLM8" role="button">Join Channel &raquo;</a></p>
         </div>
         <div class="col-md-6">
-            <h2>Awards and Prizes</h2>
-            <p>In addition to being recognized in front of their peers, the top team per category will win a meet and greet with celebrity chef and personality Anthony Bourdain on Thursday, May 10th during .NEXT, plus a $2,500 cash prize plus a donation of $2,500 to the nonprofit organization of your choice. </p>
+            <h2>Teams</h2>
+            <p>Team rosters are below; team members bolded are a dedicated Nutanix team mentor</p>
+            **Rosters (new teams still to be added)**
+
+- **RED** Eddie Lam, Kevin Hanser, Todd Madsen, Chris Tilley, *Josh Sinclair*
+- **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, *Andy Schmid*
+- **GREEN** Mark Harden, Curtis Patterson, Jim Johnson, Samuel Hanke, *Michael Jastad*
+- **YELLOW** Kevin DeNiese, Jeremy Ayers, Samuel Hanke, Christopher Ermis, *Constantine Kousolis*
+- **PURPLE** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Grant Strang, *Dave Keefe*
+- **ORANGE** Byron Gandy, Gus Thompson, Stephen Baker, ..., *Brennan Conley*
+
         </div>
     </div>
     <hr>
@@ -64,17 +73,17 @@ Getting Started
   
 The Hackathon will start prompty at 08:00am on Tuesday May 8th, 2018.  If possible, please handle your in-person registration on Monday afternoon before 6pm.
 
-Beginning on Wednesday you will be provided with a customer challenge. Your goal is to build and propose a solution using Nutanix and optional 3rd party technologies. The **Optional Labs** provide step by step guides for additional technologies you may find useful for your proposed solution. Bonus points can be earned by incorporating additional technologies (Chef, Puppet, Jenkins, etc.) not covered in **Optional Labs**.
+Beginning on Wednesday May 2nd, 2018, each team will have full access to their own cluster.  Details on how to connect, credentials, and other useful info, will be posted directly to this site.
 
-Each team has been provided a four node cluster running AHV and AOS 5.5.1. **Upon Electing a Team Lead and Consulting Your Team Coach Please Exam Your Cluster.** Each cluster has been pre-staged with the following:
+Each cluster has been pre-staged with the following (placeholder info for now):
 
 
 **Credentials**
-- **Cluster Username:** admin **Password:** techX2018!
+- **Cluster Username:** admin **Password:** xxxxx
 
 **Networks**
 
-- **Network information is located on your team spreadsheet** - https://drive.google.com/drive/folders/1-8vVrC7Ad9uFeWnY1LcaffQQEoD-Eris
+- **Network information is located on your team spreadsheet** - <google drive link>
 - **Link-Local** Network - **DO NOT ENABLE IPAM**
 
 **Images**
@@ -87,8 +96,7 @@ Each team has been provided a four node cluster running AHV and AOS 5.5.1. **Upo
 - **DC** VM - 10.21.XX.40 - ntnxlab.local Domain Controller
 - **XD** VM - 10.21.XX.41 - Citrix XenDesktop 7.15 Delivery Controller/StoreFront/License Server
 - **HYCU** VM - 10.21.XX.44 - Comtrade HYCU 2.0.0
-- **X-Ray** VM - 10.21.XX.45 - Nutanix X-Ray 2.2
 
 .. note::
 
-  Due to resource limitations, many labs are designed to be completed as a group. The Overview section of each lab will indicate whether the lab should be completed once per group/cluster or if it can be performed individually. **Do Not Start Labs Before Electing a Team Lead and Consulting Your Team Coach**
+
