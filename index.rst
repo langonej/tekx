@@ -132,7 +132,7 @@ Teams
 ===============          
 Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team mentor
             ** OFFICIAL ROSTERS BELOW **  
-            See an error? Please contact Jason (jason@nutanix.com)<br>
+            See an error? Please contact Jason (jason@nutanix.com)
 
 - **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSING
 
