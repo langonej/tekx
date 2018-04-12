@@ -83,10 +83,6 @@
 
 - **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
 
-        </div>
-    </div>
-    <hr>
-
 Getting Started
 ===============
 
@@ -94,6 +90,32 @@ Getting Started
 
   Welcome to our inaugural hackathon!  In an effort to help deliver the maximum hackathon experience we have made some of our internal training available to each of you.  The content within this site is typically used to perform a lab.  **However, since we are preparing our infrastructure for the hackathon, the content provided is for educational purposes only.**  We do not have online labs for use at this time. 
   
+The Challenges
+===============
+As this is our first ever .Next Hackathon our goal is to ensure we provide maximum fun and also an environment of maximum creativity.  Your team will be asked to build a solution during the allotted window on Tuesday May 8th.  We kindly ask that you do not pre-build your solutions ahead of time.  Research, tinkering with new platforms, iterating your ideas, however, is absolutely encouraged!
+
+Your team's submission will be evaluated by a panel of judges and the winner will be announced during a special time slot during the main .Next Conference!
+
+Your team's submission must adhere to *one of the categories below*.
+
+- *LIVE*
+Showcase how interacting with the Nutanix Enterprise Cloud OS can be woven into one's everyday life.
+
+CHALLENGE
+In this challenge, we are looking for new ways to manage or interface with Nutanix Enterprise Cloud OS! Push our APIs and integrate it with everyday platforms such as Alexa, home automation platforms, or external APIs. Ideas include deploying new workloads with Google Home or failing over your environment from your smart watch.
+
+- *WORK*
+Showcase how the Nutanix Enterprise Cloud OS can make the workday easier.
+
+CHALLENGE
+In this challenge, we want to see who can create the most elegant answer to automate application-either one of your own choosing or one of the many Nutanix partner workloads! Ideas include automating the setup of remote site when it powers up and deploying the required network services or creating a super-health check that combines NCC, a DR recovery check and even a DB integrity check? What task will you automate?
+
+- *PLAY*
+Showcase an entertaining solution for next-generation IT that utilizes the Nutanix Enterprise Cloud OS.
+
+CHALLENGE
+Creativity is king! How can we integrate bleeding-edge IT into Nutanix? Take a stateful application and turn it into a distributed Kubernetes pod or create a blockchain-based budgeting method to deploy or share resources or even use sizing insights to convert a VM to a Kubernetes container running on Google Cloud Platform. We want to see your creativity!
+ 
 Logistics
 ===============
   
