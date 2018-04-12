@@ -138,7 +138,7 @@ Each cluster has been pre-staged with the following (placeholder info for now):
             ** OFFICIAL ROSTERS BELOW **  
             See an error? Please contact Jason (jason@nutanix.com)
 
-- **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSIN
+- **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSING
 
 - **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, ANDY SCHMID
 
