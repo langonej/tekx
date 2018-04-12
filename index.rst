@@ -83,7 +83,7 @@
 
 - **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
         </div>
-
+<div class="row">
 Getting Started
 ===============
 
