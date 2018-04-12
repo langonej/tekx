@@ -128,13 +128,11 @@ Each cluster has been pre-staged with the following (placeholder info for now):
 .. note::
         
             
-            
-        
-        
-            <h2>Teams</h2>
-            <p>Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team mentor</p>
+Teams
+===============          
+Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team mentor
             ** OFFICIAL ROSTERS BELOW **  
-            See an error? Please contact Jason (jason@nutanix.com)
+            See an error? Please contact Jason (jason@nutanix.com)<br>
 
 - **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSING
 
