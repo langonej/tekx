@@ -64,9 +64,9 @@
 - **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
 
 - **GRAY** Brian Jayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
-\
+
 - **GREEN** Jeremy Ayers, Kevin DeNiese, Mark Harden, Curtis Patterson, CONSTANTINE KOUSOLIS
-\
+
 - **LIME** Luis Carrillo, Michael Culmone, Jesse Jones, Jon Walton, AASHARAY ARORA
 
 - **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
