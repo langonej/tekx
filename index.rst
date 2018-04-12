@@ -125,6 +125,8 @@ Hackathon Breakfast will start at 0730.
 
 Beginning on Wednesday May 2nd, 2018, each team will have full access to their own cluster.  Details on how to connect, credentials, and other useful info, will be posted directly to this site.
 
+The Hacking Environment
+===============
 This hackathon will utilize hosted Nutanix clusters.  Connectivity will likely be provided through a virtual desktop session with dedicated bandwidth.
 
 *What does this mean?*
