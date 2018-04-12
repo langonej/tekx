@@ -43,7 +43,10 @@
 .. raw:: html
 
     <div class="row">
-        
+        <div class="col-md-6">
+            <h2>Need Support?</h2>
+            <p>Please reach out to your team's Nutanix mentor.</p>
+        </div>
         <div class="col-md-6">
             <h2>Teams</h2>
             <p>Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team mentor</p>
@@ -161,8 +164,3 @@ Each cluster has been pre-staged with the following (placeholder info for now):
 - **HYCU** VM - 10.21.XX.44 - Comtrade HYCU 2.0.0
 
 .. note::
-
-<div class="col-md-6">
-            <h2>Need Support?</h2>
-            <p>Please reach out to your team's Nutanix mentor.</p>
-        </div>
