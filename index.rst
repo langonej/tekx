@@ -50,11 +50,15 @@
         </div>
         <div class="col-md-6">
             <h2>Teams</h2>
-            <p>Team rosters are below; team members bolded are a dedicated Nutanix team mentor</p>
+            <p>Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team mentor</p>
             **Rosters (new teams still to be added)**
 
-- **RED** Eddie Lam, Kevin Hanser, Todd Madsen, Chris Tilley, *Josh Sinclair*
-- **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, *Andy Schmid*
+- **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSIN
+- **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, ANDY SCHMID
+- **COPPER** Jeremy Francis, John Freeman, David LeClair, PJ Romero, PRATAP TIWARY
+- **CYANTIX**  Stephen Baker, Reed Beaver, Samuel Hanke, James Johnson, MICHAEL WOLFE 
+- **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
+
 - **GREEN** Mark Harden, Curtis Patterson, Jim Johnson, Samuel Hanke, *Michael Jastad*
 - **YELLOW** Kevin DeNiese, Jeremy Ayers, Samuel Hanke, Christopher Ermis, *Constantine Kousolis*
 - **PURPLE** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Grant Strang, *Dave Keefe*
