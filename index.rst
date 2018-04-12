@@ -46,45 +46,8 @@
         <div class="col-md-6">
             <h2>Need Support?</h2>
             <p>Please reach out to your team's Nutanix mentor.</p>
-        </div>
-        <div class="col-md-6">
-            <h2>Teams</h2>
-            <p>Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team mentor</p>
-            ** OFFICIAL ROSTERS BELOW **  
-            See an error? Please contact Jason (jason@nutanix.com)
-
-- **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSIN
-
-- **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, ANDY SCHMID
-
-- **COPPER** Jeremy Francis, John Freeman, David LeClair, PRATAP TIWARY
-
-- **CYANTIX**  Stephen Baker, Reed Beaver, Samuel Hanke, James Johnson, MICHAEL WOLFE 
-
-- **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
-
-- **GRAY** Brian Jayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
-
-- **GREEN** Jeremy Ayers, Kevin DeNiese, Mark Harden, Curtis Patterson, CONSTANTINE KOUSOLIS
-
-- **LIME** Luis Carrillo, Michael Culmone, Jesse Jones, Jon Walton, AASHARAY ARORA
-
-- **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
-
-- **Another Brick in the Firewall** Christopher Ermis, Byron Gandy, Grant Strang, Gus Thompson, DAVE KEEFE
-
-- **PURPLE** Jonathan Kronimus, Aldwin Leon, Eric Miller, Matthew Pettigrove, KIRAN TATIPARTHI
-
-- **RED** Kevin Hanser, Edward Lam, Todd Madsen, Christopher Tilley, JOSH SINCLAIR
-
-- **TANGERINE** Corey Brookshire, Heather Danielson, Doug Fabec, Keith Lea, PRATEEK KAJARIA
-
-- **Prometheus** Sean Bollinger, Donnie Lee, Steven Pearson, Jonathan Reich, JOSEPH MALEY
-
-- **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
-        </div>
-<div class="row">
-Getting Started
+            
+            Getting Started
 ===============
 
 .. note::
@@ -166,3 +129,43 @@ Each cluster has been pre-staged with the following (placeholder info for now):
 
 .. note::
         
+            
+            
+        
+        <div class="col-md-6">
+            <h2>Teams</h2>
+            <p>Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team mentor</p>
+            ** OFFICIAL ROSTERS BELOW **  
+            See an error? Please contact Jason (jason@nutanix.com)
+
+- **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSIN
+
+- **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, ANDY SCHMID
+
+- **COPPER** Jeremy Francis, John Freeman, David LeClair, PRATAP TIWARY
+
+- **CYANTIX**  Stephen Baker, Reed Beaver, Samuel Hanke, James Johnson, MICHAEL WOLFE 
+
+- **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
+
+- **GRAY** Brian Jayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
+
+- **GREEN** Jeremy Ayers, Kevin DeNiese, Mark Harden, Curtis Patterson, CONSTANTINE KOUSOLIS
+
+- **LIME** Luis Carrillo, Michael Culmone, Jesse Jones, Jon Walton, AASHARAY ARORA
+
+- **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
+
+- **Another Brick in the Firewall** Christopher Ermis, Byron Gandy, Grant Strang, Gus Thompson, DAVE KEEFE
+
+- **PURPLE** Jonathan Kronimus, Aldwin Leon, Eric Miller, Matthew Pettigrove, KIRAN TATIPARTHI
+
+- **RED** Kevin Hanser, Edward Lam, Todd Madsen, Christopher Tilley, JOSH SINCLAIR
+
+- **TANGERINE** Corey Brookshire, Heather Danielson, Doug Fabec, Keith Lea, PRATEEK KAJARIA
+
+- **Prometheus** Sean Bollinger, Donnie Lee, Steven Pearson, Jonathan Reich, JOSEPH MALEY
+
+- **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
+        
+
