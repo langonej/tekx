@@ -82,6 +82,7 @@
 - **Prometheus** Sean Bollinger, Donnie Lee, Steven Pearson, Jonathan Reich, JOSEPH MALEY
 
 - **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
+        </div>
 
 Getting Started
 ===============
@@ -164,3 +165,4 @@ Each cluster has been pre-staged with the following (placeholder info for now):
 - **HYCU** VM - 10.21.XX.44 - Comtrade HYCU 2.0.0
 
 .. note::
+        
