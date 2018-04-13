@@ -64,19 +64,19 @@ Your team's submission will be evaluated by a panel of judges and the winner wil
 
 Your team's submission must adhere to *one of the categories below*.
 
-*LIVE*
+<h3>*LIVE*</h3>
 Showcase how interacting with the Nutanix Enterprise Cloud OS can be woven into one's everyday life.
 
 CHALLENGE
 In this challenge, we are looking for new ways to manage or interface with Nutanix Enterprise Cloud OS! Push our APIs and integrate it with everyday platforms such as Alexa, home automation platforms, or external APIs. Ideas include deploying new workloads with Google Home or failing over your environment from your smart watch.
 
-*WORK*
+<h3>*WORK*</h3>
 Showcase how the Nutanix Enterprise Cloud OS can make the workday easier.
 
 CHALLENGE
 In this challenge, we want to see who can create the most elegant answer to automate application-either one of your own choosing or one of the many Nutanix partner workloads! Ideas include automating the setup of remote site when it powers up and deploying the required network services or creating a super-health check that combines NCC, a DR recovery check and even a DB integrity check? What task will you automate?
 
-*PLAY*
+<h3>*PLAY*</h3>
 Showcase an entertaining solution for next-generation IT that utilizes the Nutanix Enterprise Cloud OS.
 
 CHALLENGE
