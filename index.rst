@@ -151,7 +151,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 
 - **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
 
-- **GRAY** Brian Jayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
+- **GRAY** Brian Hayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
 
 - **GREEN** Jeremy Ayers, Kevin DeNiese, Curtis Patterson, Russel van Howe, CONSTANTINE KOUSOLIS
 
