@@ -50,7 +50,11 @@ Getting Started
 
 .. note::
 
-  Welcome to our inaugural hackathon!  In an effort to help deliver the maximum hackathon experience we have made some of our internal training available to each of you.  The content within this site is typically used to perform a lab.  **However, since we are preparing our infrastructure for the hackathon, the content provided is for educational purposes only.**  We do not have online labs for use at this time. 
+  Welcome to our inaugural hackathon!  In an effort to help deliver the maximum hackathon experience we have made some of our internal training available to each of you.  
+  
+The content in the left is some of the content we used to train our own technical staff here at Nutanix.  We are providing it here as an idea of what's possible, and as a guide to someone who may be new to some of this technology.
+
+**However, since we are preparing our infrastructure for the hackathon, the content provided is for educational purposes only.** 
   
 The Challenges
 ===============
@@ -60,19 +64,19 @@ Your team's submission will be evaluated by a panel of judges and the winner wil
 
 Your team's submission must adhere to *one of the categories below*.
 
-- *LIVE*
+*LIVE*
 Showcase how interacting with the Nutanix Enterprise Cloud OS can be woven into one's everyday life.
 
 CHALLENGE
 In this challenge, we are looking for new ways to manage or interface with Nutanix Enterprise Cloud OS! Push our APIs and integrate it with everyday platforms such as Alexa, home automation platforms, or external APIs. Ideas include deploying new workloads with Google Home or failing over your environment from your smart watch.
 
-- *WORK*
+*WORK*
 Showcase how the Nutanix Enterprise Cloud OS can make the workday easier.
 
 CHALLENGE
 In this challenge, we want to see who can create the most elegant answer to automate application-either one of your own choosing or one of the many Nutanix partner workloads! Ideas include automating the setup of remote site when it powers up and deploying the required network services or creating a super-health check that combines NCC, a DR recovery check and even a DB integrity check? What task will you automate?
 
-- *PLAY*
+*PLAY*
 Showcase an entertaining solution for next-generation IT that utilizes the Nutanix Enterprise Cloud OS.
 
 CHALLENGE
@@ -85,7 +89,7 @@ The Hackathon will start prompty at 08:00am on Tuesday May 8th, 2018.  Main .Nex
 
 Hackathon Breakfast will start at 0730.
 
-Beginning on Wednesday May 2nd, 2018, each team will have full access to their own cluster.  Details on how to connect, credentials, and other useful info, will be posted directly to this site.
+*Beginning on Wednesday May 2nd*, 2018, each team will have full access to their own cluster.  Details on how to connect, credentials, and other useful info, will be posted directly to this site.  Please keep in mind that the clusters will be reset the night before the event to ensure everyone starts from a level playing field.
 
 The Hacking Environment
 ===============
@@ -138,7 +142,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 
 - **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, ANDY SCHMID
 
-- **COPPER** Jeremy Francis, John Freeman, David LeClair, PRATAP TIWARY
+- **COPPER** Jeremy Francis, John Freeman, David LeClair, Mark Harden, PRATAP TIWARY
 
 - **CYANTIX**  Stephen Baker, Reed Beaver, Samuel Hanke, James Johnson, MICHAEL WOLFE 
 
@@ -146,7 +150,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 
 - **GRAY** Brian Jayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
 
-- **GREEN** Jeremy Ayers, Kevin DeNiese, Mark Harden, Curtis Patterson, CONSTANTINE KOUSOLIS
+- **GREEN** Jeremy Ayers, Kevin DeNiese, Curtis Patterson, Russel van Howe, CONSTANTINE KOUSOLIS
 
 - **LIME** Luis Carrillo, Michael Culmone, Jesse Jones, Jon Walton, AASHARAY ARORA
 
