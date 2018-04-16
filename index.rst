@@ -149,33 +149,33 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
             See an error? Please contact Jason (jason@nutanix.com)
 
 - **Ctrl Alt Elite** Michael Lowry, Jayesh Mankodi, Mustafa Ahmed Syed, James Quigley, MARCEL MESSING
-
+Playing for charity: <TBD>
 - **BLUE** Bryan Kuhn, Tom Carter, Ryan Admire, Michael Eberhard, ANDY SCHMID
-
+Playing for charity: <TBD>
 - **COPPER** Jeremy Francis, John Freeman, David LeClair, Mark Harden, PRATAP TIWARY
-
+Playing for charity: <TBD>
 - **CYANTIX**  Stephen Baker, Reed Beaver, Samuel Hanke, James Johnson, MICHAEL WOLFE 
-
+Playing for charity: <TBD>
 - **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
-
+Playing for charity: <TBD>
 - **GRAY** Brian Hayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
-
+Playing for charity: <TBD>
 - **GREEN** Jeremy Ayers, Kevin DeNiese, Curtis Patterson, Russel van Howe, CONSTANTINE KOUSOLIS
-
+Playing for charity: <TBD>
 - **LIME** Luis Carrillo, Michael Culmone, Jesse Jones, Jon Walton, AASHARAY ARORA
-
+Playing for charity: <TBD>
 - **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
-
+Playing for charity: <TBD>
 - **Another Brick in the Firewall** Christopher Ermis, Byron Gandy, Grant Strang, Gus Thompson, DAVE KEEFE
-
+Playing for charity: <TBD>
 - **PURPLE** Jonathan Kronimus, Aldwin Leon, Eric Miller, Matthew Pettigrove, KIRAN TATIPARTHI
-
+Playing for charity: <TBD>
 - **RED** Kevin Hanser, Edward Lam, Todd Madsen, Christopher Tilley, JOSH SINCLAIR
-
+Playing for charity: <TBD>
 - **TANGERINE** Corey Brookshire, Heather Danielson, Doug Fabec, Keith Lea, PRATEEK KAJARIA
-
+Playing for charity: <TBD>
 - **Prometheus** Sean Bollinger, Donnie Lee, Steven Pearson, Jonathan Reich, JOSEPH MALEY
-
+Playing for charity: <TBD>
 - **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
-        
+Playing for charity: <TBD>
 
