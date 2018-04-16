@@ -179,3 +179,7 @@ Playing for charity: <TBD>
 - **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
 Playing for charity: <TBD>
 
+Charitable Donation – Winners will also receive a charitable donation to a nonprofit of their choice. Organizations must be 501c3 * and funds may not be used for political or religious purposes (including organizations or events that promote religion or political parties).
+ 
+ 
+(*) Must be used with a 501(c)(3) – or equivalent organization. A 501(c)(3) is defined as: Associations, charities, cooperatives, and other voluntary organizations formed to further cultural, educational, professional, or public service objectives. Their startup funding is provided by their members, trustees, or others who do not expect repayment, and who do not share in the organization's profits or losses which are retained or absorbed. Approved, incorporated, or registered NPOs are usually granted tax exemptions, and contributions to them are often tax deductible. The donation may not be used for organizations that discriminate based on race, color, age, gender, religious creed, veteran status, marital status, sexual orientation, pregnancy, childbirth, national origin or ancestry, physical or mental disability, medical condition or genetic information, or political affiliation. 
