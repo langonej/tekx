@@ -159,7 +159,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 - **CYANTIX**  Stephen Baker, Reed Beaver, Samuel Hanke, James Johnson, MICHAEL WOLFE 
 - Playing for charity: <TBD>
 - **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
-- Playing for charity: <TBD>
+- Playing for charity: Special Olympics
 - **GRAY** Brian Hayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
 - Playing for charity: <TBD>
 - **GREEN** Jeremy Ayers, Kevin DeNiese, Curtis Patterson, Russel van Howe, CONSTANTINE KOUSOLIS
