@@ -94,6 +94,8 @@ Hackathon Breakfast will start at 0730.
 
 *Beginning on Wednesday May 2nd*, 2018, each team will have full access to their own cluster.  Details on how to connect, credentials, and other useful info, will be posted directly to this site.  Please keep in mind that the clusters will be reset the night before the event to ensure everyone starts from a level playing field.
 
+The Nutanix IT Team will also be onsite for minimal support and assistance.
+
 Judging
 ===============
   
@@ -175,7 +177,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 - **TANGERINE** Corey Brookshire, Heather Danielson, Doug Fabec, Keith Lea, PRATEEK KAJARIA
 - Playing for charity: <TBD>
 - **Prometheus** Sean Bollinger, Donnie Lee, Steven Pearson, Jonathan Reich, JOSEPH MALEY
-- Playing for charity: <TBD>
+- Playing for charity: JRDF Charity
 - **YELLOW** Raymond Lin, Juan Rojas, Wilson Silva dos Santos, Aliaksei Tryputsen, MICHAEL JASTAD (MJ)
 - Playing for charity: <TBD>
 
