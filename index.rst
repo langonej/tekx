@@ -165,7 +165,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 - **GREEN** Jeremy Ayers, Kevin DeNiese, Curtis Patterson, Russel van Howe, CONSTANTINE KOUSOLIS
 - Playing for charity: <TBD>
 - **LIME** Luis Carrillo, Michael Culmone, Jesse Jones, Jon Walton, AASHARAY ARORA
-- Playing for charity: <TBD>
+- Playing for charity: Wounded Warrior
 - **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
 - Playing for charity: <TBD>
 - **Another Brick in the Firewall** Christopher Ermis, Byron Gandy, Grant Strang, Gus Thompson, DAVE KEEFE
