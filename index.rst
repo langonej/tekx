@@ -169,7 +169,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 - **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
 - Playing for charity: <TBD>
 - **Another Brick in the Firewall** Christopher Ermis, Byron Gandy, Grant Strang, Gus Thompson, DAVE KEEFE
-- Playing for charity: <TBD>
+- Playing for charity: Make-a-Wish
 - **PURPLE** Jonathan Kronimus, Aldwin Leon, Eric Miller, Matthew Pettigrove, KIRAN TATIPARTHI
 - Playing for charity: <TBD>
 - **RED** Kevin Hanser, Edward Lam, Todd Madsen, Christopher Tilley, JOSH SINCLAIR
