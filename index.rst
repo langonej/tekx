@@ -162,9 +162,9 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 - Playing for charity: Special Olympics
 - **GRAY** Brian Hayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
 - Playing for charity: <TBD>
-- **GREEN** Jeremy Ayers, Kevin DeNiese, Curtis Patterson, Russel van Howe, CONSTANTINE KOUSOLIS
+- **GREEN** Jeremy Ayers, Kevin DeNiese, Curtis Patterson, Russel van Howe (out), Louis Carrillo, CONSTANTINE KOUSOLIS
 - Playing for charity: <TBD>
-- **LIME** Luis Carrillo, Michael Culmone, Jesse Jones, Jon Walton, AASHARAY ARORA
+- **LIME** Luis Carrillo (moved) , Michael Culmone (out), Jesse Jones (out), Jon Walton (out), AASHARAY ARORA
 - Playing for charity: St Jude’s Research Hospital
 - **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
 - Playing for charity: <TBD>
