@@ -115,21 +115,63 @@ This means that there will be no direct network access to the cluster.  You will
 
 Nutanix Calm for building blue prints may be a powerful tool in the solution.  Your team will be free to build and deploy containers and VMs so external solutions could be built and deployed (eg Node-RED, MagicMirror).
 
-Hosted Cluster Info (will be updated)
-===============
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|TEAM         |TEAM NAME                       |COACH                  |COACH EMAIL                      |CLUSTER IP        |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|BLUE         |                                |Andy Schmid            |andy.schmid@nutanix.com          |10.21.41.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|YELLOW       |Emojis                          |Michael Jastad         |michael.jastad@nutanix.com       |10.21.42.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|GREEN        |                                |Constantine Kousoulis  |constantine.kousouli@nutanix.com |10.21.44.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|GRAY         |                                |Brennan Conley         |Brennan.conley@nutanix.com       |10.21.46.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|PINK         |Anotherbrick in the firewall    |Dave Keefe             |dave.keefe@nutanix.com           |10.21.47.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|RED          |                                |Josh Sinclair          |josh.sinclair@nutanix.com        |10.21.48.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|CYAN         |Cyantix                         |Michael Wolfe          |michael.wolfe@nutanix.com        |10.21.49.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|ORANGE       |Did It All For The Cookies      |Ryan Hardin            |ryan.hardin@nutanix.com          |10.21.55.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|PURPLE       |                                |Kiran Tatiparthi       |kiran.tatipar@nutanix.com        |10.21.56.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|LIME         |                                |Aashray Arora          |aashray.arora@nutanix.com        |10.21.58.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|GOLDENROD    |Virtually Amazing               |Rik Faith              |faith@nutanix.com                |10.21.72.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|VERMILION    |Prometheus                      |Joseph Maley           |joseph.maley@nutanix.com         |10.21.73.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|TANGERINE    |                                |Prateek Kajariay       |prateek.kajaria@nutanix.com      |10.21.74.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|COPPER       |                                |Pratap Tiwary          |pratap.tiwary@nutanix.com        |10.21.79.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
+|AVOCADO      | Ctrl Alt Elite                 |Marcel Messing         |marcel.messing@nutanix.com       |10.21.80.37       |
++-------------+--------------------------------+-----------------------+---------------------------------+------------------+
 
 
-Each cluster has been pre-staged with the following (placeholder info for now):
+Connecting to NTNX Lab Resources:
+================================= 
+Each team should reference their assigned Cluster IP as shown above. 
 
+**Access HPOC Lab using Citrix:**
 
-**Credentials**
-- **Cluster Username:** admin **Password:** xxxxx
+Citrix XenDesktop:
 
-**Networks**
+- Login to https://citrixready.nutanix.com using your supplied credentials
+- Select HTML5 (web browser) OR Install the Citrix Receiver client
+- Select "Customers, Partners & Bootcamps" to access your virtual desktop
+ 
+**Use the following credentials when logging into Citrix:**
+ 
+- 20 x VDI/VPN User Accounts: POC0XX-User01, POC0XX-User02 … POC0XX-User20 etc.  VDI/VPN User Password: techX2018!  
 
-- **Network information is located on your team spreadsheet** - <google drive link>
-- **Link-Local** Network - **DO NOT ENABLE IPAM**
+**Note:** XX = Cluster Subnet IP (i.e. 10.21.80.37; where 80 is the subnet).  
 
+**Login to Prism Element by opening a browser instance from your active VDI session (created above):**
+
+-  Use the team-assigned Cluster IP Address from the table above (i.e. https://10.21.XX.37:9440; where **XX** = cluster subnet id), and hit enter...
+-  When prompted use the following credentials: **admin/techX2018!**
 **Images**
 
 - **All required images are pre-loaded onto your team's cluster**
