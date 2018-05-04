@@ -200,7 +200,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 - Playing for charity: <TBD>
 - **CYANTIX**  Stephen Baker, Reed Beaver, Samuel Hanke, James Johnson, MICHAEL WOLFE 
 - Playing for charity: <TBD>
-- **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, RIK FAITH
+- **Virtually Amazing**  Matt Rice, Marlon Wenceslao, Christopher Williams, Joel Winkelmann, Utkarsha Joshi, RIK FAITH
 - Playing for charity: Special Olympics
 - **GRAY** Brian Hayes, Jeremy Nicolaisen, Rocky Reyes, PJ Romero, BRENNAN CONLEY
 - Playing for charity: <TBD>
@@ -210,7 +210,7 @@ Team rosters are below; team members in ALL CAPS are a dedicated Nutanix team me
 - Playing for charity: St Jude’s Research Hospital
 - **Did It All For The Cookies** Benjamin Craft, Chadd Dorr, Joseph Itson, Faisal Jawaid, RYAN HARDIN
 - Playing for charity: <TBD>
-- **Another Brick in the Firewall** Christopher Ermis, Byron Gandy, Grant Strang, Gus Thompson, DAVE KEEFE
+- **Another Brick in the Firewall** Christopher Ermis, Byron Gandy (out), Grant Strang, Gus Thompson, Joel Quezada, DAVE KEEFE
 - Playing for charity: Make-a-Wish
 - **PURPLE** Jonathan Kronimus, Aldwin Leon, Eric Miller, Matthew Pettigrove, KIRAN TATIPARTHI
 - Playing for charity: <TBD>
